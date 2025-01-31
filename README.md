@@ -1,4 +1,4 @@
-# Ghostty HackTheBox Theme
+# Ghostty Hack The Box style theme
 
 This is a **Ghostty** theme inspired by the HackTheBox color scheme used in Windows Terminal. It provides a vivid and consistent set of colors for your command-line experience.
 
